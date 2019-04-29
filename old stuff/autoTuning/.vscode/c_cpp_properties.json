@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/bjoern/opt/boost/1.61.0/gcc-4.9.3-default/include",
+                "/home/bjoern/opt/rose_inst/include",
+                "/home/bjoern/opt/rose_inst/include/rose"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

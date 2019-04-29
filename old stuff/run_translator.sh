@@ -1,0 +1,1 @@
+./Translator -c ./$mm.cpp -rose:hpct:eqpath .=`cd home/bjoern/Documents/programs/measurements && pwd` -rose:hpct:prof ./measurements/experiment.xml -rose:verbose 0 -g3 -rose:outline:parameter_wrapper -rose:outline:new_file -rose:outline:temp_variable -rose:outline:exclude_headers -rose:autotuning:enable_debug -rose:outline:enable_liveness -rose:autotuning:triage_threshold 0.2
